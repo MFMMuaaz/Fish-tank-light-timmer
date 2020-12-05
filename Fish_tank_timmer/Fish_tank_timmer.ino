@@ -10,8 +10,8 @@ const int smallTankLight = 4;
 const int indicatorWiFi = 2;
 bool indicatorStatus = true;
 
-const char *ssid     = "Dialog 4G";
-const char *password = "Abcd@12345";
+const char *ssid     = "_ _ _ _ _";
+const char *password = "_ _ _ _ _";
 const long utcOffsetInSeconds = 5.5*60*60;
 const long updateFrequency = 24*60*60*1000;
 //char daysOfTheWeek[7][12] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
